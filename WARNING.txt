@@ -1,0 +1,1 @@
+WARNING: this only operates on microbit V2 not V1
